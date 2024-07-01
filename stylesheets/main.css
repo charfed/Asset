@@ -1,0 +1,38 @@
+.Netflix {
+
+  text-align: center;
+  color:red;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+body  {
+  background-color: black;
+}
+
+.imageButton{
+  display: flex;
+  flex-direction: column;
+  gap : 10px;
+  width :fit-content;
+  color: rgb(135, 131, 131);
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  padding: 50px;
+  margin: none;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 10px;
+
+  }
+
+  #H007{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50%;
+    width: 50%;
+  }
+  
